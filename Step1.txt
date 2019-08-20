@@ -1,5 +1,5 @@
 Proc sql;
 
-select name,SSNN from EMPLT;
+select name,SSNN,addr from EMPLT;
 
 Quit;
