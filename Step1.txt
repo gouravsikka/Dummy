@@ -1,0 +1,5 @@
+Proc sql;
+
+select name,SSNN from EMPLT;
+
+Quit;
