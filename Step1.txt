@@ -1,0 +1,5 @@
+Proc sql;
+
+select * from EMPLT;
+
+Quit;
